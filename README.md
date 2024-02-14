@@ -23,7 +23,7 @@ The project demonstrates the use of dbt for transforming data within a PostgreSQ
    - This command creates a new Docker container named `some-postgres` with PostgreSQL. Replace `mysecretpassword` with a secure password of your choice.
 
 2. **Configure dbt**
-   - Navigate to the dbt project directory and update the `profiles.yml` file with the credentials of your PostgreSQL database hosted in Docker.
+   - Navigate to the dbt project directory and update the `docker-compose.yaml` file with the credentials of your PostgreSQL database hosted in Docker.
    - Ensure the dbt profile is correctly set to connect to your PostgreSQL instance.
 
 ### Running dbt Transformations
