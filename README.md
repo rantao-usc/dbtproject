@@ -1,7 +1,3 @@
-Here's a README in English for your repository, with some minor adjustments for clarity:
-
----
-
 # PostgreSQL Data Transformation with dbt
 
 This repository contains a data transformation project using dbt (Data Build Tool) on data hosted in a PostgreSQL database. The PostgreSQL instance is containerized using Docker, providing a flexible and isolated environment for database operations.
@@ -47,7 +43,3 @@ Contributions are welcome! If you have suggestions for improving the data transf
 ## License
 
 This project is open source and available under the [MIT License](LICENSE.md).
-
----
-
-This README provides a basic template that you can customize based on the specifics of your project and any additional features or instructions you want to include.
